@@ -1,0 +1,7 @@
+langchain
+streamlit
+langchain_community
+langchain_core
+openai
+langchain_openai
+PyPDF2
