@@ -5,3 +5,4 @@ langchain_core
 openai
 langchain_openai
 PyPDF2
+chromadb
